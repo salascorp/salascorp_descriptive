@@ -1,0 +1,16 @@
+# Evitar subir el entorno virtual
+descriptive_venv/
+
+# Archivos de sistema (macOS)
+.DS_Store
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de configuración de entorno virtual (por si usas otros nombres)
+env/
+venv/
